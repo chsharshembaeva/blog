@@ -1,0 +1,10 @@
+Django==3.2
+djangorestframework==3.14.0
+pyTelegramBotAPI==4.7.1
+gunicorn
+psycopg2
+Celery
+redis
+drf-yasg
+
+

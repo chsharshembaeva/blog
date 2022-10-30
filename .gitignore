@@ -1,0 +1,7 @@
+venv/
+app/my_proj/__pycache__/
+app/sql_app/__pycache__/
+app/sql_app/migrations/__pycache__/
+.idea/
+.env.prod
+.env.prod.db
